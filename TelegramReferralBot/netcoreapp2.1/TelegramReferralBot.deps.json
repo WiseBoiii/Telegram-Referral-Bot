@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v2.1": {
       "TelegramReferralBot/1.0.0": {
         "dependencies": {
-          "Telegram.Bot": "15.5.1"
+          "Telegram.Bot": "16.0.2"
         },
         "runtime": {
           "TelegramReferralBot.dll": {}
